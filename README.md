@@ -15,12 +15,12 @@ scikit-dimension is a (work-in-progress /!\\) Python module for intrinsic dimens
 
 Using pip:
 ```bash
-pip install git+https://github.com/j-bac/scikit-dimension.git
+pip install git+https://github.com/sysbio-curie/scikit-dimension.git
 ```
 
 From source:
 ```bash
-git clone https://github.com/j-bac/scikit-dimension
+git clone https://github.com/sysbio-curie/scikit-dimension
 cd scikit-dimension
 pip install .
 ```
